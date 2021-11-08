@@ -1,0 +1,6 @@
+<!--ラベル-->
+<!ENTITY label "Label">
+<!--サブフォルダ-->
+<!ENTITY subfolder "Subfolder">
+<!--このフィールドを空にすると、ラベルからフォルダが自動的に生成されます-->
+<!ENTITY leave-empty "Leave this field empty to automatically generate the folder from the label.">

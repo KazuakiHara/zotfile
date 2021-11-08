@@ -1,0 +1,48 @@
+<!--Attach New File-->
+<!ENTITY zotfile-attach-file.label "最新のPDFをリンク付き添付ファイルとして追加">
+<!--Move and attach last file in user defined folder to selected Zotero item-->
+<!ENTITY zotfile-attach-file.tooltiptext "選択したZoteroアイテムに、ユーザー定義のフォルダ内の最後のファイルを移動して添付する。">
+<!--Manage Attachments-->
+<!ENTITY zotfile-manage-attachments.label "添付ファイルの管理">
+<!--Warning-->
+<!ENTITY warning.label "警告">
+<!--Rename and Move-->
+<!ENTITY renameSelectedAttachments.label "名前変更と移動">
+<!--Move and rename existing Attachments from selected Zotero item-->
+<!ENTITY renameSelectedAttachments.tooltiptext "選択したZoteroアイテムから既存の添付ファイルを移動したり、名前を変更したりすることができます。">
+<!--Extract Annotations-->
+<!ENTITY extract-annotations.label "アノテーションの抽出">
+<!--Extract Annotations and Highlighted Text from pdf file.-->
+<!ENTITY extract-annotations.tooltiptext "pdfファイルからアノテーションやハイライトされたテキストを抽出することができます。">
+<!--Get Table of Contents-->
+<!ENTITY pdf-outline.label "目次の取得">
+<!--Get Table of Contents from pdf file.-->
+<!ENTITY pdf-outline.tooltiptext "PDFファイルから目次を取得する.">
+<!--Send to Tablet-->
+<!ENTITY send-to-tablet "タブレットへ送る">
+<!--Send Attachment File to Tablet.-->
+<!ENTITY send-attachment-file-to-tablet "タブレットへ添付ファイルを送る.">
+<!--Update File Modification Time-->
+<!ENTITY update-file-modification-time "「ファイルの更新日時」の更新">
+<!--Sync attachment file on tablet with file in Zotero.-->
+<!ENTITY sync-attachment-file "タブレットの添付ファイルとZoteroのファイルの同期する.">
+<!--Get from Tablet-->
+<!ENTITY get-from-tablet "タブレットから取得">
+<!--Get Attachment File from Tablet-->
+<!ENTITY get-attachment-file-from-tablet "タブレットから添付ファイルを取得する">
+<!--Send to Subfolder on Tablet-->
+<!ENTITY send-to-subfolder-on-tablet "タブレットのサブフォルダに送る">
+<!--Change subfolders...-->
+<!ENTITY change-subfolders "サブフォルダの変更...">
+<!--Add and delete subfolders to Menu.-->
+<!ENTITY add-and-delete-subfolders "メニューへのサブフォルダの追加と削除．Add and delete subfolders to Menu.">
+<!--ZotFile Preferences...-->
+<!ENTITY zotfile-options.label "ZotFileの設定...">
+<!--Show Attachments from all Subfolders-->
+<!ENTITY saved-search-all "すべてのサブフォルダーの添付ファイルを表示．Show Attachments from all Subfolders">
+<!--Restrict Saved Search to Subfolder-->
+<!ENTITY saved-search-restrict "サブフォルダへの保存検索の制限．Restrict Saved Search to Subfolder">
+<!--Restrict to subfolder...-->
+<!ENTITY restrict-subfolder "サブフォルダへの制限... Restrict to subfolder...">
+<!--Unfiled Attachments-->
+<!ENTITY restrict-basefolder "ファイル化されていない添付．Unfiled Attachments">

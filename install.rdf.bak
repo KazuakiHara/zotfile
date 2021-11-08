@@ -55,12 +55,5 @@
         <em:description> Un plugin di Zotero per gestire i tuoi allegati</em:description>
       </Description>
     </em:localized>
-    <em:localized>
-      <Description>
-        <em:locale>ja-JP</em:locale>
-        <em:name>ZotFile</em:name>
-        <em:description>PDF管理をもっと簡単に for Zotero</em:description>
-      </Description>
-    </em:localized>
   </Description>
 </RDF>

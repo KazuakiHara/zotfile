@@ -1,0 +1,165 @@
+<!--ZotFile Preferences-->
+<!ENTITY zotfile-preferences "ZotFileの設定"> 
+<!--ZotFile Preferences-->
+<!ENTITY zotfile-prefpane "ZotFileの設定"> 
+<!--General Settings-->
+<!ENTITY general-settings "全般設定"> 
+<!--Tablet Settings-->
+<!ENTITY tablet-settings "タブレット設定"> 
+<!--Renaming Rules-->
+<!ENTITY renaming-rules "リネーム規則"> 
+<!--Advanced Settings-->
+<!ENTITY advanced-settings "詳細設定"> 
+<!--Source Folder for Attaching New Files-->
+<!ENTITY attachments-source-folder "新規ファイルを添付するソースフォルダ"> 
+<!--ZotFile can add the most recently modified file from a folder such as the downloads folder as a new attachment to the currently selected Zotero item.-->
+<!ENTITY source-folder-desc "ZotFileは、現在選択されているZoteroアイテムに、ダウンロードフォルダなどのフォルダから最近更新されたファイルを新規添付ファイルとして追加することができます。"> 
+<!--Use Firefox download folder-->
+<!ENTITY use-firefox-download-folder "Firefoxのダウンロードフォルダを使う"> 
+<!--Custom:-->
+<!ENTITY custom-source-folder "カスタム:"> 
+<!--Choose...-->
+<!ENTITY choose "..."> 
+<!--Location of Files-->
+<!ENTITY location-of-files "リンク付き添付ファイルの置き場所"> 
+<!--ZotFile can move new and existing attachments to different locations. You can either store a copy of your attachment files in Zotero, which allows you to sync files to the Zotero server, or move the file to a custom folder and link to that location from Zotero-->
+<!ENTITY target-location-desc "ZotFileは、新規および既存の添付ファイルを異なる場所に移動することができます。添付ファイルのコピーをZoteroに保存し、Zoteroサーバーにファイルを同期させることも、ファイルをカスタムフォルダーに移動し、Zoteroからその場所にリンクすることもできます。">
+<!--Attach stored copy of file(s)-->
+<!ENTITY attach-stored-copy "保存されているファイルのコピーを添付"> 
+<!--Custom Location:-->
+<!ENTITY custom-location "置き場の指定："> 
+<!--Use subfolder defined by-->
+<!ENTITY use-subfolder "以下の規則でサブフォルダを作成する："> 
+<!--Subfolders are based on metadata from Zotero items. Use &#37;a for author name, &#37;y for year, &#37;w for journal/publisher, or &#37;T for item type (see the zotfile website for a full list). Make sure to insert the appropriate separators (/ for Mac OS and other Unix systems and \ for windows).-->
+<!ENTITY subfolder-information "サブフォルダは、Zoteroアイテムのメタデータに基づいています。著者名には &#37;a を、年には &#37;y を、ジャーナル/出版社には &#37;w を、アイテムタイプには &#37;T を使用してください（完全なリストは zotfile のウェブサイトを参照してください）。また、適切なセパレーター（Mac OSなどのUnixシステムでは/、Windowsでは\）を挿入してください。">
+<!--For more information see the -->
+<!ENTITY for-more-information "詳細な情報は以下を参照してください："> 
+<!--ZotFile website-->
+<!ENTITY zotfile-website "ZotFile公式サイト"> 
+<!--If you find this plugin helpful, please consider a -->
+<!ENTITY consider-donation "ZotFileが有用と感じたら，こちらを検討ください：">
+<!--donation-->
+<!ENTITY donation "寄付">
+<!--ZotFile can streamline the process of reading and annotating your Zotero attachments on a iPad or Android tablet using a pdf annotation app. It sends pdfs to and gets them back from the tablet, renames and sorts them into subfolders so that you can find them, and extracts the annotations and highlighted text to a Zotero note.-->
+<!ENTITY tablet-desc "ZotFileは、pdf注釈アプリを使って、iPadやAndroidタブレットでZoteroの添付ファイルを読み、注釈をつけるプロセスを効率化することができます。タブレットにpdfを送信し、タブレットからpdfを受信し、それらを見つけられるようにサブフォルダに名前を変えてソートし、注釈やハイライトされたテキストをZoteroノートに抽出します。">
+<!--Use ZotFile to send and get files from tablet-->
+<!ENTITY send-get-from-tablet "ZotFileを使ってタブレットからファイルを送受信する">
+<!--Location of Files on Tablet-->
+<!ENTITY location-on-tablet "タブレット上のファイルの場所">
+<!--Base Folder-->
+<!ENTITY base-folder "基準フォルダ">
+<!--Show Folder-->
+<!ENTITY show-folder "フォルダの表示">
+<!--(DropBox or alternative folder that syncs with the reading application on your tablet)-->
+<!ENTITY dropbox "(DropBoxまたはタブレットの読書アプリケーションと同期する代替フォルダ)">
+<!--Subfolders-->
+<!ENTITY subfolders "サブフォルダ">
+<!--No subfolders-->
+<!ENTITY no-subfolders "サブフォルダなし">
+<!--Create subfolders from zotero collections-->
+<!ENTITY create-subfolders "zoteroコレクションからサブフォルダを作成">
+<!--Custom subfolders-->
+<!ENTITY custom-subfolders "Custom subfolders">
+<!--Change subfolders-->
+<!ENTITY change-subfolders "サブフォルダの変更">
+<!--Use additional subfolders defined by -->
+<!ENTITY use-additional-subfolders "以下で定義された追加のサブフォルダーを使用する：">
+<!--Additional subfolders are based on metadata from Zotero items. Use &#37;a for author name, &#37;y for year, &#37;w for journal/publisher, or &#37;T for item type (see the zotfile website for a full list). Make sure to insert the appropriate separators (/ for Mac OS and other Unix systems and \ for windows).-->
+<!ENTITY additional-subfolders "追加のサブフォルダーは、Zoteroアイテムのメタデータに基づいています。著者名には &#37;a を、年には &#37;y を、ジャーナル/出版社には &#37;w を、アイテムタイプには &#37;T を使用してください（完全なリストは zotfile ウェブサイトを参照してください）。また、適切なセパレーター（Mac OSなどのUnixシステムでは/、Windowsでは\）を挿入してください。">
+<!--Additional options-->
+<!ENTITY additional-options "追加オプション">
+<!--Rename files when they are sent to the tablet-->
+<!ENTITY rename-when-sent-to-tablet "タブレットへの送信時にファイル名を変更する">
+<!--Save copy of annotated file with suffix -->
+<!ENTITY save-annotated-file "注釈付きファイルのコピーを接尾辞付きで保存する ">
+<!--By default, getting an attachment back from the tablet replaces the file saved in Zotero. When this option is enabled, zotfile instead creates a copy of the file with a specified suffix and adds this file as an additional attachment to Zotero.-->
+<!ENTITY tablet-copy-information "デフォルトでは、タブレットから添付ファイルが返されると、Zoteroに保存されているファイルが置き換えられます。このオプションを有効にすると、zotfileは代わりに、指定された接尾辞を持つファイルのコピーを作成し、このファイルをZoteroの追加添付ファイルとして追加します。">
+<!--Automatically extract annotations when getting PDFs back from tablet-->
+<!ENTITY automatically-extract-annotations "タブレットからPDFを取得する際に、注釈を自動的に抽出します。">
+<!--Preview of Current Renaming Rules-->
+<!ENTITY preview-renaming-rules "現在のリネーム規則のプレビュー">
+<!--Update-->
+<!ENTITY update "更新">
+<!--Renaming Format-->
+<!ENTITY renaming-format "リネーム規則">
+<!--Use Zotero to Rename-->
+<!ENTITY zotero-to-rename "リネームにZetoroを使用する">
+<!--Format for all Item Types except Patents-->
+<!ENTITY format-for-all-types "特許以外のアイテムタイプの規則">
+<!--Format for Patents-->
+<!ENTITY format-for-patents "特許の規則">
+<!--&#37;a = author last name; &#37;y = year; &#37;t = title; &#37;j = journal; use {...} for an optional group and | for exclusive matches-->
+<!ENTITY list-of-wildcards "&#37;a = 著者名; &#37;y = 年; &#37;t = タイトル; &#37;j = 雑誌; 任意のグループには {...} を、排他的なマッチには | を使用します。">
+<!--For a full list of place holder see the -->
+<!ENTITY for-a-full-list "プレースホルダーの全リストについては以下を参照：">
+<!--Additional Settings-->
+<!ENTITY additional-settings "追加の設定">
+<!--Delimiter between multiple authors-->
+<!ENTITY delimiter-multiple-authors "複数の著者間のデリミタ">
+<!--Add user input to filename. Default is -->
+<!ENTITY add-user-input-to-filename "ユーザー入力をファイル名に追加。デフォルトは ">
+<!--Change to lower case-->
+<!ENTITY lower-case "小文字に変更">
+<!--Replace blanks-->
+<!ENTITY replace-blanks "空白を置換">
+<!--Truncate title after . or : or ?-->
+<!ENTITY truncate-title ". と : と ? の後のタイトルを切り詰める">
+<!--Maximum length of title-->
+<!ENTITY zotfile-truncate_title_max "タイトルの最大長">
+<!--Maximum number of authors-->
+<!ENTITY zotfile-truncate_authors "著者の最大人数">
+<!--Number of authors to display when authors are omitted-->
+<!ENTITY zotfile-number_truncate_authors "著者が省略されている場合に表示する著者数">
+<!--著者が省略されている場合はサフィックスを追加-->
+<!ENTITY zotfile-add_etal "">
+<!--Extract Annotations and Highlighted Text from PDF Files-->
+<!ENTITY extract-annotations "PDFファイルから注釈やハイライトされたテキストを抽出する">
+<!--ZotFile can extract annotations and highlighted text from your pdf attachments.-->
+<!ENTITY extract-annotations-and-highlighted-text "ZotFileは、pdfの添付ファイルから注釈やハイライトされたテキストを抽出することができます。">
+<!--Extraction Method-->
+<!ENTITY extraction-method "抽出方法">
+<!--Use pdf.js to extract annotations-->
+<!ENTITY use-pdf-js "pdf.jsを使ってアノテーションを抽出">
+<!--ZotFile supports two methods to extract annotations from pdf files. The pdf.js-based tool works across all platforms and runs directly from zotero. The poppler-based extraction tool only works for Mac OS and requires a separate download. Currently, pdf.js is more reliable and should be the default in most cases. The poppler-based tool, however, is faster and might handle certain pdf standards that are not yet supported by pdf.js.-->
+<!ENTITY methods-to-extract-annotations "ZotFileは、pdfファイルからアノテーションを抽出する2つの方法をサポートしています。pdf.jsベースのツールは、すべてのプラットフォームで動作し、zoteroから直接実行されます。popplerベースの抽出ツールは、Mac OSでのみ動作し、別途ダウンロードが必要です。現在のところ、pdf.jsの方が信頼性が高く、ほとんどの場合、デフォルトで使用すべきです。しかし、poppler ベースのツールはより高速で、pdf.js がまだサポートしていない特定の pdf 規格を処理できる可能性があります。">
+<!--Use poppler to extract annotations-->
+<!ENTITY use-poppler "popplerを使ってアノテーションを抽出">
+<!--Add full in-text citation to highlighted text snippets in note-->
+<!ENTITY add-full-citation "ノートのハイライトされたテキストスニペットにフルテキストの引用を追加する">
+<!--Use actual article/book chapter page for highlighted text snippets-->
+<!ENTITY use-article-book-chapter-page "実際の記事や書籍の章のページを使用して、ハイライトされたテキストスニペットを表示します">
+<!--The article page number is determined by adding the page in the pdf document and the starting page from the 'pages' field in the zotero metadata. This approach fails if the first page in the pdf document is not the first page in the article/book chapter-->
+<!ENTITY page-number-determination "記事のページ番号は、pdfドキュメントのページと、zoteroメタデータの「pages」フィールドからの開始ページを加えて決定されます。この方法は、pdfドキュメントの最初のページが、論文/書籍の章の最初のページでない場合は失敗します。">
+<!--Other Advanced Settings-->
+<!ENTITY other-advanced-settings "その他の詳細設定">
+
+<!--Watch for new files in source folder-->
+<!ENTITY watch_folder "ソースフォルダ内の新規ファイルの監視">
+
+<!--Automatically rename new attachments-->
+<!ENTITY automatic_renaming_label "新しい添付ファイルの名前を自動的に変更">
+<!--Never-->
+<!ENTITY automatic_renaming_no "無効">
+<!--Always ask (non-disruptive)-->
+<!ENTITY automatic_renaming_ask "常に確認する">
+<!--Only ask if item has other atts-->
+<!ENTITY automatic_renaming_ask_mult "他の添付ファイルがある場合のみ確認する">
+<!--Always rename-->
+<!ENTITY automatic_renaming_always "常に行う">
+
+<!--Ask user when attaching new files-->
+<!ENTITY ask-when-attaching-new-files "新しいファイルを添付する際にユーザーに確認する">
+<!--Ask user to (batch) rename or move -->
+<!ENTITY ask-to-batch-rename "ユーザーに名前の変更や移動を（一括で）依頼する ">
+<!-- or more attachments.-->
+<!ENTITY or-more-attachments "またはそれ以上の添付ファイル">
+<!--Remove special characters (diacritics) from filename-->
+<!ENTITY remove-special-characters "ファイル名から特殊文字（発音記号）を削除する">
+<!--Only work with the following filetypes -->
+<!ENTITY work-with-following-filetypes "以下のファイルタイプでのみ動作：">
+<!--Add Saved Searches-->
+<!ENTITY add-saved-searches "検索結果の追加">
+<!--Attachments on Tablet-->
+<!ENTITY attachments-on-tablet "タブレットでの添付ファイル">
+<!--Modified Attachments on Tablet-->
+<!ENTITY modified-attachments-on-tablet "タブレットでのアタッチメントの変更">
