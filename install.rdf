@@ -17,14 +17,14 @@
       <Description>
         <em:id>zotero@chnm.gmu.edu</em:id>
         <em:minVersion>5.0.0</em:minVersion>
-        <em:maxVersion>5.*</em:maxVersion>
+        <em:maxVersion>6.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
       <Description>
         <em:id>juris-m@juris-m.github.io</em:id>
         <em:minVersion>4.999</em:minVersion>
-        <em:maxVersion>5.*</em:maxVersion>
+        <em:maxVersion>6.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:localized>
@@ -59,7 +59,7 @@
       <Description>
         <em:locale>ja-JP</em:locale>
         <em:name>ZotFile</em:name>
-        <em:description>PDF管理をもっと簡単に for Zotero</em:description>
+        <em:description>PDF管理プラグイン for Zotero</em:description>
       </Description>
     </em:localized>
   </Description>

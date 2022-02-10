@@ -2,3 +2,4 @@
 .DS_Store
 *.xpi
 .vs/
+pack/

@@ -22,4 +22,4 @@ def make_zipfile_from_multiple_directory(zip_filename, src_dirs):
   os.chdir(save_cwd)
 
 
-make_zipfile_from_multiple_directory("../zotfile_jp.zip", ['chrome', 'defaults', 'chrome.manifest', 'install.rdf'])
+make_zipfile_from_multiple_directory("./pack/zotfile_jp.zip", ['chrome', 'defaults', 'chrome.manifest', 'install.rdf'])
